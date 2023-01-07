@@ -62,7 +62,6 @@ short and long signals called "dots" and "dashes", or "dits" and "dahs".
 Because many non-English natural languages use more than the 26 Roman letters, 
 extensions to the Morse alphabet exist for those languages.
 
-![Morse Code table]([files/images/code_chart.png](https://otasurvivalschool.com/wp-content/uploads/2019/03/MorseCode.jpg) "Chart of the Morse Code letters")
 
 International Morse code is composed of five elements:
 
@@ -72,7 +71,7 @@ International Morse code is composed of five elements:
 * short gap (between letters) : three time units long
 * medium gap (between words) : seven time units long
 
-![Morse Code graph]([files/images/code_graph.png](https://i.pinimg.com/736x/6c/51/4d/6c514d5a5be327930654d6137f87bb03.jpg) "A graphical representation of the dichotomic search table: the user branches left at every dot and right at every dash until the character is finished.")
+
 
 
 # Graphical User Interface
