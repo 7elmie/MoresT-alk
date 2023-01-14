@@ -1,10 +1,7 @@
 from setuptools import setup, find_packages
 import sys
-
 sys.path.insert(0, 'morse_talk')
 import release
-
-
 setup(
     name =release.name,
     version=release.__version__,
@@ -34,5 +31,4 @@ setup(
     },
     test_suite='nose.collector',
     tests_require=['nose>=0.10.1']
-
 )
